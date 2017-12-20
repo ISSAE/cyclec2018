@@ -1,3 +1,19 @@
+
+# Portail des traveaux d'auditeurs pour l'année 2017-2018 au Cnam Liban, département informatique cycle C d'ingénieur AISL et IRSM
+
+## Chaque auditeur aura à :
+
+1. Dans le cadre du premier semestre, réaliser un didacticiel correspondant à un point particulier du cours GLG203 ou SMB214;
+2. au second semestre l'auditeur participe à la réalisation d'un projet conséquent, collectivement, en appliquant une organisation inspiré des méthodes agiles et de l'Open Source.
+
+## Les outils pour la collaborations sout issue de git et github:
+1. L'[issues tracker](https://github.com/ISSAE/cyclec2018/issues) pour la création, le suivi et la répartition des tâches.
+2. [git](https://git-scm.com/docs/gittutorial) pour la gestions des traveaux réalisés et leurs versions
+3. github pages pour la documentation, par exemple le [site actuel que vous lisez en ce moment](http://issae.github.io/cyclec2018)
+
+------------------------
+TODO a suprimer tout ce qui suit... 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ISSAE/cyclec2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
