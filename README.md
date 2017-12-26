@@ -12,6 +12,14 @@
 2. [git](https://git-scm.com/docs/gittutorial) pour la gestions des travaux réalisés et leurs versions
 3. github pages pour la documentation, par exemple le [site actuel que vous lisez en ce moment](http://issae.github.io/cyclec2018)
 
+----
+
+## Les didacticiels par les auditeurs
+
+Nom auditeur | compte github | titre | référence projet 
+-------------|---------------|-------| ----------------
+Joseph Mansour | @josephmansour | Cassandra | none yet!
+
 
 ------------------------
 TODO a supprimer tout ce qui suit... 
