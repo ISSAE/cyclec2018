@@ -19,6 +19,14 @@
 Nom auditeur | compte github | titre | référence projet 
 -------------|---------------|-------| ----------------
 Joseph Mansour | @josephmansour | Cassandra | none yet!
+Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](https://github.com/fadyzakharia/projetC1)
+Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018)
+Hazem Halawi| @HazemHalawi | MangoDB | [MangoDB Hazem](https://github.com/HazemHalawi/cyclec-2018)
+Abedelaziz Bilani | @abedelazizbilani | Web Semantique | https://github.com/abedelazizbilani/C1-2018
+Fahed Dany | faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec
+Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3
+Romy Ephrem | romyephrem | Juinit | https://github.com/romyephrem/C1projet2018
+
 
 
 ------------------------
