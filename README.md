@@ -33,54 +33,16 @@ DianaDaher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018
 @ralphsa95 | ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md
 @roudy-ghosn | roudy-ghosn | Tomcat Server | https://github.com/roudy-ghosn/ProjetC1
 @EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018
-
-
-@ayman-kouzayha
-     
-ayman-kouzayha commented 18 hours ago
-Sujet: Google Cloud Compute Engine
-https://github.com/ayman-kouzayha/Google_Cloud_Compute_Engine/blob/master/README.md
- @JoelleTannous
-     
-JoelleTannous commented 15 hours ago
-Sujet: tomEE server
-https://github.com/JoelleTannous/projet-C1-2018
- @dchouba
-     
-dchouba commented 14 hours ago
-Sujet: OAuth2
-https://github.com/dchouba/oauth2-Cyclec/blob/master/README.md
+@ayman-kouzayha | ayman-kouzayha  | Google Cloud Compute Engine | https://github.com/ayman-kouzayha/Google_Cloud_Compute_Engine
+@JoelleTannous | JoelleTannous | tomEE server | https://github.com/JoelleTannous/projet-C1-2018
+@dchouba | dchouba |  OAuth2 | https://github.com/dchouba/oauth2-Cyclec
 
 ------------------------
+
 TODO a supprimer tout ce qui suit... 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ISSAE/cyclec2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+---
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
