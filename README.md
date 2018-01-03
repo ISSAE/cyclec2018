@@ -23,11 +23,33 @@ Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](http
 Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018)
 Hazem Halawi| @HazemHalawi | MangoDB | [MangoDB Hazem](https://github.com/HazemHalawi/cyclec-2018)
 Abedelaziz Bilani | @abedelazizbilani | Web Semantique | https://github.com/abedelazizbilani/C1-2018
-Fahed Dany | faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec
+Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3
-Romy Ephrem | romyephrem | Juinit | https://github.com/romyephrem/C1projet2018
+Romy Ephrem | @romyephrem | Juinit | https://github.com/romyephrem/C1projet2018
+eliekh1 | @eliekh1 |  CouchDB | https://github.com/eliekh1/Project-C1-2018
+Said Eid | @said-eid | Riak DB | https://github.com/said-eid/ProjetC1-2018
+rkhawand | @rkhawand | Google Cloud Platform - App Engine | https://github.com/rkhawand/Projet-SMB214-2018
+DianaDaher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018
+@ralphsa95 | ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md
+@roudy-ghosn | roudy-ghosn | Tomcat Server | https://github.com/roudy-ghosn/ProjetC1
+@EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018
 
 
+@ayman-kouzayha
+     
+ayman-kouzayha commented 18 hours ago
+Sujet: Google Cloud Compute Engine
+https://github.com/ayman-kouzayha/Google_Cloud_Compute_Engine/blob/master/README.md
+ @JoelleTannous
+     
+JoelleTannous commented 15 hours ago
+Sujet: tomEE server
+https://github.com/JoelleTannous/projet-C1-2018
+ @dchouba
+     
+dchouba commented 14 hours ago
+Sujet: OAuth2
+https://github.com/dchouba/oauth2-Cyclec/blob/master/README.md
 
 ------------------------
 TODO a supprimer tout ce qui suit... 
