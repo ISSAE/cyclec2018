@@ -7,7 +7,7 @@
 1. Dans le cadre du premier semestre, réaliser un didacticiel correspondant à un point particulier du cours GLG203 ou SMB214;
 2. au second semestre l'auditeur participe à la réalisation d'un projet conséquent, collectivement, en appliquant une organisation inspiré des méthodes agiles et de l'Open Source.
 
-## Les outils pour la collaborations sout issue de git et github:
+## Les outils pour la collaboration sont issus de git et github:
 1. L'[issues tracker](https://github.com/ISSAE/cyclec2018/issues) pour la création, le suivi et la répartition des tâches.
 2. [git](https://git-scm.com/docs/gittutorial) pour la gestions des travaux réalisés et leurs versions
 3. github pages pour la documentation, par exemple le [site actuel que vous lisez en ce moment](http://issae.github.io/cyclec2018)
@@ -22,7 +22,7 @@ Joseph Mansour | @josephmansour | Cassandra | none yet!
 Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](https://github.com/fadyzakharia/projetC1)
 Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018)
 Hazem Halawi| @HazemHalawi | MangoDB | [MangoDB Hazem](https://github.com/HazemHalawi/cyclec-2018)
-Abedelaziz Bilani | @abedelazizbilani | Web Semantique | https://github.com/abedelazizbilani/C1-2018
+Abedelaziz Bilani | @abedelazizbilani | Web Semantique | [Web Semantique Abdelaziz](https://github.com/abedelazizbilani/C1-2018)
 Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3
 Romy Ephrem | @romyephrem | Juinit | https://github.com/romyephrem/C1projet2018
