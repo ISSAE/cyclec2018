@@ -14,6 +14,9 @@
 
 ----
 
+La playlist YouTube publique de ce projet : visiter Travaux [Auditeurs Cnam Liban](https://goo.gl/ydNEDp)
+---
+
 ## Les didacticiels par les auditeurs
 
 Nom auditeur | compte github | titre | référence projet 
@@ -22,7 +25,7 @@ Joseph Mansour | @josephmansour | Cassandra | none yet!
 Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](https://github.com/fadyzakharia/projetC1)
 Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018)
 Hazem Halawi| @HazemHalawi | MangoDB | [MangoDB Hazem](https://github.com/HazemHalawi/cyclec-2018)
-Abedelaziz Bilani | @abedelazizbilani | Web Semantique | [Web Semantique Abdelaziz](https://github.com/abedelazizbilani/C1-2018)
+Abedelaziz Bilani | @abedelazizbilani | GitLab | [Git Lab Abdelaziz](https://github.com/abedelazizbilani/C1-2017-2018)
 Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3
 Romy Ephrem | @romyephrem | Juinit | https://github.com/romyephrem/C1projet2018
@@ -37,7 +40,8 @@ DianaDaher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018
 @JoelleTannous | JoelleTannous | tomEE server | https://github.com/JoelleTannous/projet-C1-2018
 @dchouba | dchouba |  OAuth2 | https://github.com/dchouba/oauth2-Cyclec
 Etienne Eid | @etienneeid | Redis DB | https://github.com/etienneeid/CNAM-ProjetC1-2018
-mohamadsabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203
+Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203
+Mouhamad Khalil | mouhamad-khalil | Glassfish | https://mouhamad-khalil.github.io/GlassFish
 
 
 ------------------------
