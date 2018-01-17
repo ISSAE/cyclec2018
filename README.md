@@ -15,6 +15,7 @@
 ----
 
 La playlist YouTube publique de ce projet : visiter Travaux [Auditeurs Cnam Liban](https://goo.gl/ydNEDp)
+
 ---
 
 ## Les didacticiels par les auditeurs
@@ -42,6 +43,8 @@ DianaDaher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018
 Etienne Eid | @etienneeid | Redis DB | https://github.com/etienneeid/CNAM-ProjetC1-2018
 Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203
 Mouhamad Khalil | mouhamad-khalil | Glassfish | https://mouhamad-khalil.github.io/GlassFish
+Joseph Mansour | josephmansour| Caasandra| https://github.com/josephmansour/cassandra
+Rhea Saade | RheaSaade | Heroku | https://github.com/RheaSaade/CycleC-2018
 
 
 ------------------------
