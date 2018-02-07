@@ -45,7 +45,7 @@ Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203
 Mouhamad Khalil | mouhamad-khalil | Glassfish | https://mouhamad-khalil.github.io/GlassFish
 Joseph Mansour | josephmansour| Caasandra| https://github.com/josephmansour/cassandra
 Rhea Saade | RheaSaade | Heroku | https://github.com/RheaSaade/CycleC-2018
-
+Mario Bou Samra | @mariobs1990 | Gradle | https://github.com/mariobs1990/Projet-C1-2018
 
 ------------------------
 
