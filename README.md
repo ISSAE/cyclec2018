@@ -49,17 +49,11 @@ Mario Bou Samra | @mariobs1990 | Gradle | https://github.com/mariobs1990/Projet-
 
 ------------------------
 
-TODO a supprimer tout ce qui suit... 
+# Les TP puis projets pour C2
 
+* [Open Training Camp](http://opentraining.cofares.net)
 
----
+https://github.com/opentrainingcamp et https://github.com/opentrainingcamp/TP-GLG-Cnam-Liban
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Open Training Camp est une extantion de mes support de cours des valeurs C1,C2 au Cnam Liban (SMB214,215 et GLG203,204)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISSAE/cyclec2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
