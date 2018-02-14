@@ -24,7 +24,6 @@ Nom auditeur | compte github | titre | référence projet | Date présentation
 -------------|---------------|-------| ---------------- | ---------
 Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](https://github.com/fadyzakharia/projetC1) | x
 Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018) | x 
-
 Abedelaziz Bilani | @abedelazizbilani | GitLab | [Git Lab Abdelaziz](https://github.com/abedelazizbilani/C1-2017-2018) | x
 Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | x
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3 | x
