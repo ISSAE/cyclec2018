@@ -28,7 +28,6 @@ Abedelaziz Bilani | @abedelazizbilani | GitLab | [Git Lab Abdelaziz](https://git
 Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | x
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3 | x
 Romy Ephrem | @romyephrem | Juinit | https://github.com/romyephrem/C1projet2018 | x
-eliekh1 | @eliekh1 |  CouchDB | https://github.com/eliekh1/Project-C1-2018 | x
 Said Eid | @said-eid | Riak DB | https://github.com/said-eid/ProjetC1-2018 | x
 DianaDaher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018 | x
 @ralphsa95 | ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md |  x
@@ -46,7 +45,8 @@ Joseph Mansour | josephmansour| Caasandra| https://github.com/josephmansour/cass
 Hazem Halawi| @HazemHalawi | MangoDB | [MangoDB Hazem](https://github.com/HazemHalawi/cyclec-2018) | 13/2/2018
 Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203 |  13/2/2018
 Mario Bou Samra | @mariobs1990 | Gradle | https://github.com/mariobs1990/Projet-C1-2018 | 15/2/2018 
-Raymond Khawand | @rkhawand | Google Cloud Platform - App Engine | https://github.com/rkhawand/Projet-SMB214-2018 | 20/2/2018 20/2/2018 
+Raymond Khawand | @rkhawand | Google Cloud Platform - App Engine | https://github.com/rkhawand/Projet-SMB214-2018 | 20/2/2018 
+Elie khoury | @eliekh1 |  CouchDB | https://github.com/eliekh1/Project-C1-2018 | 20/2/2018 
 
 
 ------------------------
