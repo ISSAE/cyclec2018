@@ -27,10 +27,8 @@ Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | x
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3 | x
 Said Eid | @said-eid | Riak DB | https://github.com/said-eid/ProjetC1-2018 | x
 @ralphsa95 | ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md |  x
-@roudy-ghosn | roudy-ghosn | Tomcat Server | https://github.com/roudy-ghosn/ProjetC1 | x
 @EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018 | x
 @ayman-kouzayha | ayman-kouzayha  | Google Cloud Compute Engine | https://github.com/ayman-kouzayha/Google_Cloud_Compute_Engine | x
-@JoelleTannous | JoelleTannous | tomEE server | https://github.com/JoelleTannous/projet-C1-2018 | x
 @dchouba | dchouba |  OAuth2 | https://github.com/dchouba/oauth2-Cyclec | x
 Etienne Eid | @etienneeid | Redis DB | https://github.com/etienneeid/CNAM-ProjetC1-2018  |  x
 Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203 | x
@@ -43,10 +41,15 @@ Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203 |
 Mario Bou Samra | @mariobs1990 | Gradle | https://github.com/mariobs1990/Projet-C1-2018 | 15/2/2018 
 Raymond Khawand | @rkhawand | Google Cloud Platform - App Engine | https://github.com/rkhawand/Projet-SMB214-2018 | 20/2/2018 
 Elie khoury | @eliekh1 |  CouchDB | [CouchDB par Elie khoury](https://github.com/eliekh1/Project-C1-2018) | 20/2/2018 
+x | x | x | x | x 
 Romy Ephrem | @romyephrem | Juinit | https://github.com/romyephrem/C1projet2018 | 22/2/2018
 Diana Daher | @DianaDaher | Grizzly | https://github.com/DianaDaher/PROJETC1-2018 | 22/2/2018
 Yousef Kassouf | @Youssef-Kassouf | Firebase Cloud Firestore | [Firebase Cloud Firestore Youssef](https://github.com/Youssef-Kassouf/CNAM-ProjetC1-2018) | 27/02/2018 
 Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](https://github.com/fadyzakharia/projetC1) | 27/02/2018 
+Roudy Ghosn | @roudy-ghosn | Tomcat Server | https://github.com/roudy-ghosn/ProjetC1 | 27/02/2018
+x | x | x | x | x 
+Ralph Saade | @ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md |  27/02/2018 
+Joelle Tannous | @JoelleTannous | tomEE server | https://github.com/JoelleTannous/projet-C1-2018 | 27/02/2018 
 
 
 ------------------------
@@ -54,6 +57,7 @@ Fady Zakaria | @fadyzakharia | Firebase Realtime Database | [Firebase Fady](http
 # Les TP puis projets pour C2
 
 * [Open Training Camp](http://opentraining.cofares.net)
+* [Cnam Liban Open Training](http://clot.cofares.net)
 
 https://github.com/opentrainingcamp et https://github.com/opentrainingcamp/TP-GLG-Cnam-Liban
 
