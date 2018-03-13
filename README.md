@@ -50,7 +50,7 @@ Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | 27
 Rhea Saade | @RheaSaade | Heroku | https://github.com/RheaSaade/CycleC-2018 | 1/03/2018
 Daniel Choubassi | @dchouba |  OAuth2 | https://github.com/dchouba/oauth2-Cyclec | 1/03/2018
 Abedelaziz Bilani | @abedelazizbilani | GitLab | [Git Lab Abdelaziz](https://github.com/abedelazizbilani/C1-2017-2018) | 1/03/2018
-@EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018 | 06/03/2018
+Ephrem Beaino | @EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018 | 06/03/2018
 
 
 ------------------------
