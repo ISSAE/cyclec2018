@@ -26,7 +26,6 @@ Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | x
 Rodney Badran | @RodneyBadran  | mangoDB | https://github.com/RodneyBadran/sujet-3 | x
 Said Eid | @said-eid | Riak DB | https://github.com/said-eid/ProjetC1-2018 | x
 @ralphsa95 | ralphsa95 | Rapport SQL Jasper | https://github.com/ralphsa95/ProjetC12018/blob/master/README.md |  x
-@EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018 | x
 @ayman-kouzayha | ayman-kouzayha  | Google Cloud Compute Engine | https://github.com/ayman-kouzayha/Google_Cloud_Compute_Engine | x
 Etienne Eid | @etienneeid | Redis DB | https://github.com/etienneeid/CNAM-ProjetC1-2018  |  x
 Mohamad Sabra | mohamadsabra | Docker | https://github.com/mohamadsabra/GLG203 | x
@@ -51,6 +50,7 @@ Fahed Dany | @faheddany | Neo4j | https://github.com/faheddany/neo4j-cyclec | 27
 Rhea Saade | @RheaSaade | Heroku | https://github.com/RheaSaade/CycleC-2018 | 1/03/2018
 Daniel Choubassi | @dchouba |  OAuth2 | https://github.com/dchouba/oauth2-Cyclec | 1/03/2018
 Abedelaziz Bilani | @abedelazizbilani | GitLab | [Git Lab Abdelaziz](https://github.com/abedelazizbilani/C1-2017-2018) | 1/03/2018
+@EphremBeainoCNAM | EphremBeainoCNAM | Azure Table Storage | https://github.com/EphremBeainoCNAM/ProjetC1-2018 | 06/03/2018
 
 
 ------------------------
